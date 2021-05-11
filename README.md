@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kad-eversm
+- 👀 I’m interested in IT, Politics, Investing and music.
+- 🌱 I’m currently learning Vue3 and Kubernetes.
+- 📫 Mail me at mike.evers@kadaster.nl
